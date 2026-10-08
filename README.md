@@ -1,4 +1,8 @@
-## Hi there 👋
+![Samurai Anime Header](./samurai-header.gif)
+
+# Welcome to My GitHub ⚔️
+
+*Code in silence, build your own world.*
 
 <!--
 **LUQIMUHAMMADSULTAN/LUQIMUHAMMADSULTAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
