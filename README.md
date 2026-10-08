@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-https://github.com/LUQIMUHAMMADSULTAN/Pemrograman_Web/issues
 <!--
 **LUQIMUHAMMADSULTAN/LUQIMUHAMMADSULTAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
