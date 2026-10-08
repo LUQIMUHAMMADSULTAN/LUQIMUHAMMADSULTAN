@@ -1,8 +1,10 @@
-![Samurai Anime Header](./samurai-header.gif)
+<p align="center">
+  <img src="./samurai-header.gif" width="100%" alt="Samurai Anime Header">
+</p>
+
 
 # Welcome to My GitHub ⚔️
 
-*Code in silence, build your own world.*
 
 <!--
 **LUQIMUHAMMADSULTAN/LUQIMUHAMMADSULTAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
